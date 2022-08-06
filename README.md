@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/ArteiusWorkshop/FM-interactive-rating-component)
-- Live Site URL: [Live site URL here](https://fm-interactive-rating-component-ql3l17wjw-arteiusworkshop.vercel.app/)
+- Solution URL: [Solution URL here](https://github.com/ArteiusWorkshop/FM-intro-component-with-signup-form)
+- Live Site URL: [Live site URL here](https://fm-intro-component-with-signup-form-8xpyqdx9t-arteiusworkshop.vercel.app/)
 
 ## My process
 
