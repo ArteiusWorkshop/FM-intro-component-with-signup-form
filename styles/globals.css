@@ -1,0 +1,49 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+.container {
+  width: 100%;
+  height: 100%;
+  background-image: url("/img/bg-intro-desktop.png");
+  background-color: hsl(0, 100%, 74%);
+  background-repeat: repeat;
+  background-size: 100%;
+}
+
+.box {
+  width: 540px;
+}
+.box.left,
+.box.right {
+  display: flex;
+}
+.container,
+.box.left,
+.box.right {
+  align-items: center;
+  justify-content: center;
+  font-family: "Poppins", sans-serif;
+}
+.box.right {
+  flex-direction: column;
+}
+
+.offer {
+  font-weight: 700;
+}
+
+.forms {
+  padding-top: 10px;
+}
+
+.footers {
+  margin-top: 10px;
+  font-size: 13px;
+}
+
+.claim {
+  margin-top: 10px;
+  height: 50px;
+  font-family: "Poppins", sans-serif;
+  box-shadow: 0 5px 0 0 hsla(154, 54%, 42%, 0.575);
+}
